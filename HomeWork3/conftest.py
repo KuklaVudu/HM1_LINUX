@@ -45,10 +45,6 @@ def make_subfolder():
         return subfoldername, testfilename
 
 
-@pytest.fixture()
-def _get_file_stats(self):
-    return 10, 1024
-
 
 @pytest.fixture(autouse=True)
 def print_time():
