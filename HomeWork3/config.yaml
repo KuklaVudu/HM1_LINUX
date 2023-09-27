@@ -1,0 +1,7 @@
+folder_in: /home/ly/tst
+folder_out: /home/ly/out
+folder_ext: /home/ly/folder1
+folder_ext2: /home/ly/folder2
+count: 3
+bs: 1M
+type: zip
